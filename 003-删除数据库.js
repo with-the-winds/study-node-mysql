@@ -1,10 +1,11 @@
 /*
  * @Date: 2023-06-06 17:22:01
- * @LastEditors: zhubj
- * @LastEditTime: 2023-06-06 17:23:24
+ * @LastEditors: with-the-winds
+ * @LastEditTime: 2023-06-06 19:31:58
  * @Description: 头部注释
  * @FilePath: \study-node-mysql\003-删除数据库.js
  */
+
 
 const mysql = require('mysql')
 

@@ -1,10 +1,12 @@
 /*
  * @Date: 2023-06-06 17:14:53
- * @LastEditors: zhubj
- * @LastEditTime: 2023-06-06 17:15:05
+ * @LastEditors: with-the-winds
+ * @LastEditTime: 2023-06-06 19:31:40
  * @Description: 头部注释
  * @FilePath: \study-node-mysql\002-连接数据库.js
  */
+
+
 // 获取mysql数据库模块
 const mysql = require('mysql')
 
